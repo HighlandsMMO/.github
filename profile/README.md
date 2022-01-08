@@ -10,13 +10,14 @@ http://discord.gg/WygcPk4
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Image as link</title>
    </head>
    <body>
-      The following image works as a link:<br>
-      <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+      <br>
+      <a href="https://discord.gg/WygcPk4">
+      <p align="center">
+         <img alt="Qries" src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge"
          width=150" height="70">
+      </p>
       </a>
    </body>
 </html>
