@@ -16,7 +16,7 @@ http://discord.gg/WygcPk4
       <a href="https://discord.gg/WygcPk4">
       <p align="center">
          <img alt="Qries" src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge"
-         width=150" height="70">
+         style="max-width: 100%;">
       </p>
       </a>
    </body>
