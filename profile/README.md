@@ -7,8 +7,7 @@
       <br>
       <a href="https://discord.gg/WygcPk4">
       <p align="center">
-         <img alt="Qries" src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge"
-         style="max-width: 100%;">
+         <img alt="Qries" src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge" style="max-width: 100%;"> <img alt="Qries" src="https://img.shields.io/badge/Our-Interactive%20And%20Explorable%203D%20Map!-0065cc?style=for-the-badge" style="max-width: 100%;">
       </p>
       </a>
    </body>
@@ -18,7 +17,7 @@
    About Us
 </h2>
 
-We are a **Floating Island MMORPG** with the wish of brigning to players a free to play experience of a kind. Our goal is to create and bring to life a server that does not replace other minecraft MMORPG's, but instead aim to provide a totally different gameplay experience, making playing Highlands **unique and refreshing**.
+We are a **Floating Island MMORPG** with the wish of bringing to players a free to play experience of a kind. Our goal is to create and bring to life a server that does not replace other minecraft MMORPG's, but instead aim to provide a totally different gameplay experience, making playing Highlands **unique and refreshing**.
 
 We of course are going with a simplistic fantasy/medieval style to immerse the players with the touch of unique unforgettable features like listed bellow!
 
