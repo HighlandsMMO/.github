@@ -18,7 +18,7 @@
 <h2 align="left">
    About The Adventure
 </h2>
-<h1 align="left">
+<p align="left">
    There are Large-scale Events that affect all players involved, allowing for dynamic changes to the server itself based on choices made.
    
    Paired with a Quest Format that makes the player a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for the player.
@@ -30,4 +30,4 @@
    We also plan to add Special Movement and Combat Mechanics that will make gameplay that much more interesting
    
    To end, we put a large focus on replayability for players who want a second playthrough experience
-</h1>
+</p>
