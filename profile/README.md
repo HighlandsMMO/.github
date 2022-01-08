@@ -20,7 +20,7 @@
 <p align="left">
    There are <strong>Large-scale Events</strong> that affect all players involved, allowing for dynamic changes to the server itself based on choices made.
    
-   Paired with a Quest Format that makes the player a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for the player.
+   Paired with a <strong>Quest Format</strong> that gives the player the feel of being a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for any players since they **live in the present**.
    
    You will also experience our Custom Class System where you can become bosses you kill and use their abilities/skills, place points in a class skill tree allowing you to play as whatever you want and even combining classes
    
