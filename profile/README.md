@@ -15,6 +15,14 @@
 </html>
 
 <h2 align="left">
+   About Us
+</h2>
+
+We are a **Floating Island MMORPG** with the wish of brigning to players a free to play experience of a kind. Our goal is to create and bring to life a server that does not replace other minecraft MMORPG's, but instead aim to provide a totally different gameplay experience, making playing Highlands **unique and refreshing**.
+
+We of course are going with a simplistic fantasy/medieval style to immerse the players with the touch of unique unforgettable features like listed bellow!
+
+<h2 align="left">
    About The Adventure
 </h2>
 
