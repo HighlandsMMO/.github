@@ -2,11 +2,11 @@
 
 <p align="center">
   
-https://invidget.switchblade.xyz/WygcPk4
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](http://discord.gg/2FB8wDG)
   
 </p>
 
-
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](http://discord.gg/2FB8wDG)
 
 
 
