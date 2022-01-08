@@ -17,7 +17,7 @@
 <h2 align="left">
    About The Adventure
 </h2>
-   There are **Large-scale Events** <p style="color:#b734eb";>Custom Class System</p> that affect all players involved, allowing for **dynamic changes** to the server itself based on choices made.
+   There are **Large-scale Events** <span style="color:#b734eb";>Custom Class System</span> that affect all players involved, allowing for **dynamic changes** to the server itself based on choices made.
    
    Paired with a <p style="color:#eb3486";>Quest Format</p> that gives the player the feel of being a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for any players since they **live in the present**.
    
