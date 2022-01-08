@@ -17,6 +17,7 @@
 <h2 align="left">
    About The Adventure
 </h2>
+
 There are **Large-scale Events** that affect all players involved, allowing for **dynamic changes** to the server itself based on choices made.
    
 Paired with a **Quest Format** that gives the player the feel of being a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for any players since they **live in the present**.
