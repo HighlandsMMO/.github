@@ -2,4 +2,4 @@
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/WygcPk4)](http://discord.gg/WygcPk4)
 
-<img src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge" data-canonical-src="https://discord.gg/WygcPk4" style="max-width: 100%;">
