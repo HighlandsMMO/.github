@@ -6,7 +6,14 @@
    <body>
       <br>
       <a href="https://discord.gg/WygcPk4">
+      <p align="center">
          <img alt="Qries" src="https://img.shields.io/badge/Discord-Join%20Us!-5865F2?style=for-the-badge" style="max-width: 100%;"> <img alt="Qries" src="https://img.shields.io/badge/Interactive%203D%20Map-Bluemap-0065cc?style=for-the-badge" style="max-width: 100%;">
+      </p>
+      </a>
+      <a href="http://144.217.61.241:8100/#enveat:404:92:-87:0:-1.57:1.57:0:0:free">
+      <p align="center">
+         <img alt="Qries" src="https://img.shields.io/badge/Interactive%203D%20Map-Bluemap-0065cc?style=for-the-badge" style="max-width: 100%;">
+      </p>
       </a>
    </body>
 </html>
