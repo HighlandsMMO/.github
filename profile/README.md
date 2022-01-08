@@ -1,5 +1,4 @@
 ![alt text](https://cdn.discordapp.com/attachments/624405523948765184/929258052778086420/highlandslogo2.png)
-
 <!DOCTYPE html>
 <html>
    <head>
@@ -19,7 +18,7 @@
    About The Adventure
 </h2>
 <p align="left">
-   There are Large-scale Events that affect all players involved, allowing for dynamic changes to the server itself based on choices made.
+   There are <strong>Large-scale Events</strong> that affect all players involved, allowing for dynamic changes to the server itself based on choices made.
    
    Paired with a Quest Format that makes the player a passenger of this world in which what you do has effects on it. This is special because there is no pre-determined quest path for the player.
    
